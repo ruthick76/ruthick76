@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthick76&label=Profile%20views&color=0e75b6&style=flat" alt="ruthick76" /> </p>
 
+- 😄 Pronouns: **He/Him.**
+
 - 🌱 I’m currently learning **React js,Node js**
+
+- 🌱 I’m currently pursuing **undergrad at BVRIT'N.**
+
+- 👯 I’m interested **in solving real-world problems using Python, AI, and Web technologies.**
 
 - 👨‍💻 All of my projects are available at [https://ruthickportfolio.netlify.app/](https://ruthickportfolio.netlify.app/)
 
