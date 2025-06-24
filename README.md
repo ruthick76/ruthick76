@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruthick Madamsetti</h1>
+[<h1 align="center">Hi 👋, I'm Ruthick Madamsetti</h1>
 <h3 align="center">A passionate Python Developer, Web Developer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthick76&label=Profile%20views&color=0e75b6&style=flat" alt="ruthick76" /> </p>
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthick76&show_icons=true&locale=en" alt="ruthick76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthick76&" alt="ruthick76" /></p>
+](https://github-readme-streak-stats.herokuapp.com/?user=ruthick76&)
