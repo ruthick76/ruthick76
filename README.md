@@ -5,7 +5,7 @@
 
 - 😄 Pronouns: **He/Him.**
 
-- 🌱 I’m currently learning **React js,Node js**
+- 🌱 I’m currently learning **React js**
 
 - 🌱 I’m currently pursuing **undergrad at BVRIT'N.**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ruthickportfolio.netlify.app/](https://ruthickportfolio.netlify.app/)
 
-- 💬 Ask me about **Python programming ,Web development (HTML, CSS, JavaScript,Node.js,React.js),Machine Learning and Deep Learning**
+- 💬 Ask me about **Python programming ,Web development (HTML, CSS, JavaScript,Node js,React js),Machine Learning and Deep Learning**
 
 - 📫 How to reach me **ruthick765@gmail.com**
 
